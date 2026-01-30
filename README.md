@@ -1,2 +1,1 @@
-# 👋
-hello im Syntify.
+🐵 bum
