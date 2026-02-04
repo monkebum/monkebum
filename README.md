@@ -1,1 +1,1 @@
-echo "🐵 bum"
+🐵 bum
